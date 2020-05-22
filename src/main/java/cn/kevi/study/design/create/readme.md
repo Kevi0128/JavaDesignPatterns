@@ -1,4 +1,4 @@
-#CreatePatterns 创建型模式
+#CreatePatterns 创建型模式  
 Java设计模式之创建型模式：  
   --工厂  
   --抽象工厂  

@@ -1,1 +1,1 @@
-#FactoryMethod 工厂模式
+#FactoryMethod 工厂模式  
